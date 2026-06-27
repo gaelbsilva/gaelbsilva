@@ -2,7 +2,7 @@
 My name is Gael, I’m currently studying at IFMA. 
 I’m currently working on school and personal projects to become a full-stack developer.
 
-![cat-developer-gif](https://tenor.com/pt-BR/view/cat-computer-mouse-notebook-developer-gif-17611078)
+<div class="tenor-gif-embed" data-postid="17611078" data-share-method="host" data-aspect-ratio="1.30081" data-width="100%"><a href="https://tenor.com/view/cat-computer-mouse-notebook-developer-gif-17611078">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Skills
 <div>
