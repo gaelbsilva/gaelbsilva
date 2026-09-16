@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=FFFFFF&multiline=true&repeat=false&width=800&height=60&lines=hi+there!+im+gael%2C+i+am+currently+deepening+my+knowledge+in+personal+projects+and;passionate+aboutcreative+designers.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=FFFFFF&multiline=true&repeat=false&width=800&height=60&lines=hi+there!+im+gael%2C+i+am+currently+deepening+my+knowledge+in+personal+projects+and;passionate+about+creative+designers.)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark-mode.svg">
